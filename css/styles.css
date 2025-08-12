@@ -76,7 +76,7 @@ p{ margin: 0 0 1em; color: var(--c-sec); }
 =========================== */
 /* Hero */
 .hero{
-  background-image: url(/assets/imagenes/hero\ image.jpg);
+  background-image: url(../assets/imagenes/hero\ image.jpg);
   background-size: cover;
   text-align:center; padding: 30px 20px;
   min-height: 80vh;
